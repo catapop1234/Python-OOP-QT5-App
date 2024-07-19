@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<servicii>
+	<Serviciu>
+		<Nume>Netflix</Nume>
+		<CodIntern>157235</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Serviciu>
+	<Serviciu>
+		<Nume>Spotify</Nume>
+		<CodIntern>157235</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Serviciu>
+</servicii>

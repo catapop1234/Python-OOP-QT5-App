@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPachet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pachet>
+    <Id>1</Id>
+    <Nume>Pachet de Sarbatori</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>8800</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <NrElem>4</NrElem>
+    <Elem_pachet>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>3</Id>
+        <Nume>PC</Nume>
+        <CodIntern>157235</CodIntern>
+        <Pret>2200</Pret>
+        <Categorie>Tehnologia Informatiei</Categorie>
+        <Producator>USA</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>1</Id>
+        <Nume>Netflix</Nume>
+        <CodIntern>157235</CodIntern>
+        <Pret>2200</Pret>
+        <Categorie>Tehnologia Informatiei</Categorie>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>4</Id>
+        <Nume>Telefon</Nume>
+        <CodIntern>157235</CodIntern>
+        <Pret>2200</Pret>
+        <Categorie>Tehnologia Informatiei</Categorie>
+        <Producator>USA</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>2</Id>
+        <Nume>Spotify</Nume>
+        <CodIntern>157235</CodIntern>
+        <Pret>2200</Pret>
+        <Categorie>Tehnologia Informatiei</Categorie>
+      </ProdusAbstract>
+    </Elem_pachet>
+  </Pachet>
+  <Pachet>
+    <Id>2</Id>
+    <Nume>Pachet de Paste</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>4400</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <NrElem>2</NrElem>
+    <Elem_pachet>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>1</Id>
+        <Nume>Calculator</Nume>
+        <CodIntern>157235</CodIntern>
+        <Pret>2200</Pret>
+        <Categorie>Tehnologia Informatiei</Categorie>
+        <Producator>USA</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>2</Id>
+        <Nume>Laptop</Nume>
+        <CodIntern>157235</CodIntern>
+        <Pret>2200</Pret>
+        <Categorie>Tehnologia Informatiei</Categorie>
+        <Producator>USA</Producator>
+      </ProdusAbstract>
+    </Elem_pachet>
+  </Pachet>
+</ArrayOfPachet>

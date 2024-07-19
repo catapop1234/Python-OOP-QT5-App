@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produs>
+    <Id>1</Id>
+    <Nume>Calculator</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>2200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <Producator>USA</Producator>
+  </Produs>
+  <Produs>
+    <Id>2</Id>
+    <Nume>Laptop</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>2200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <Producator>USA</Producator>
+  </Produs>
+  <Produs>
+    <Id>3</Id>
+    <Nume>PC</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>2200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <Producator>USA</Producator>
+  </Produs>
+  <Produs>
+    <Id>4</Id>
+    <Nume>Telefon</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>2200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <Producator>USA</Producator>
+  </Produs>
+</ArrayOfProdus>

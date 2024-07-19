@@ -1,0 +1,34 @@
+[
+  {
+    "Producator": "USA",
+    "Id": 1,
+    "Nume": "Calculator",
+    "CodIntern": "157235",
+    "Pret": 2200,
+    "Categorie": "Tehnologia Informatiei"
+  },
+  {
+    "Producator": "USA",
+    "Id": 2,
+    "Nume": "Laptop",
+    "CodIntern": "157235",
+    "Pret": 2200,
+    "Categorie": "Tehnologia Informatiei"
+  },
+  {
+    "Producator": "USA",
+    "Id": 3,
+    "Nume": "PC",
+    "CodIntern": "157235",
+    "Pret": 2200,
+    "Categorie": "Tehnologia Informatiei"
+  },
+  {
+    "Producator": "USA",
+    "Id": 4,
+    "Nume": "Telefon",
+    "CodIntern": "157235",
+    "Pret": 2200,
+    "Categorie": "Tehnologia Informatiei"
+  }
+]

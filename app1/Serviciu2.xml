@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfServiciu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Serviciu>
+    <Id>1</Id>
+    <Nume>Netflix</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>2200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+  </Serviciu>
+  <Serviciu>
+    <Id>2</Id>
+    <Nume>Spotify</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>2200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+  </Serviciu>
+</ArrayOfServiciu>

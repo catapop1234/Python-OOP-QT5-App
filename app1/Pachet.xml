@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pachete>
+	<Pachet>
+		<Nume>Pachet de Sarbatori</Nume>
+		<CodIntern>157235</CodIntern>
+		<Categorie>Tehnologia Informatiei</Categorie>
+        <Elemente>
+            <NumeElem>PC</NumeElem>
+            <NumeElem>Netflix</NumeElem>
+            <NumeElem>Telefon</NumeElem>
+            <NumeElem>Spotify</NumeElem>
+        </Elemente>
+	</Pachet>
+	<Pachet>
+		<Nume>Pachet de Paste</Nume>
+		<CodIntern>157235</CodIntern>
+		<Categorie>Tehnologia Informatiei</Categorie>
+        <Elemente>
+            <NumeElem>Calculator</NumeElem>
+            <NumeElem>Laptop</NumeElem>
+        </Elemente>
+	</Pachet>
+</pachete>

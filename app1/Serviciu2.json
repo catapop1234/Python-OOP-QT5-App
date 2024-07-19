@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Nume": "Netflix",
+    "CodIntern": "157235",
+    "Pret": 2200,
+    "Categorie": "Tehnologia Informatiei"
+  },
+  {
+    "Id": 2,
+    "Nume": "Spotify",
+    "CodIntern": "157235",
+    "Pret": 2200,
+    "Categorie": "Tehnologia Informatiei"
+  }
+]

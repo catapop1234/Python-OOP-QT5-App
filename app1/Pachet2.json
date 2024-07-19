@@ -1,0 +1,68 @@
+[
+  {
+    "NrElem": 4,
+    "Elem_pachet": [
+      {
+        "Producator": "USA",
+        "Id": 3,
+        "Nume": "PC",
+        "CodIntern": "157235",
+        "Pret": 2200,
+        "Categorie": "Tehnologia Informatiei"
+      },
+      {
+        "Id": 1,
+        "Nume": "Netflix",
+        "CodIntern": "157235",
+        "Pret": 2200,
+        "Categorie": "Tehnologia Informatiei"
+      },
+      {
+        "Producator": "USA",
+        "Id": 4,
+        "Nume": "Telefon",
+        "CodIntern": "157235",
+        "Pret": 2200,
+        "Categorie": "Tehnologia Informatiei"
+      },
+      {
+        "Id": 2,
+        "Nume": "Spotify",
+        "CodIntern": "157235",
+        "Pret": 2200,
+        "Categorie": "Tehnologia Informatiei"
+      }
+    ],
+    "Id": 1,
+    "Nume": "Pachet de Sarbatori",
+    "CodIntern": "157235",
+    "Pret": 8800,
+    "Categorie": "Tehnologia Informatiei"
+  },
+  {
+    "NrElem": 2,
+    "Elem_pachet": [
+      {
+        "Producator": "USA",
+        "Id": 1,
+        "Nume": "Calculator",
+        "CodIntern": "157235",
+        "Pret": 2200,
+        "Categorie": "Tehnologia Informatiei"
+      },
+      {
+        "Producator": "USA",
+        "Id": 2,
+        "Nume": "Laptop",
+        "CodIntern": "157235",
+        "Pret": 2200,
+        "Categorie": "Tehnologia Informatiei"
+      }
+    ],
+    "Id": 2,
+    "Nume": "Pachet de Paste",
+    "CodIntern": "157235",
+    "Pret": 4400,
+    "Categorie": "Tehnologia Informatiei"
+  }
+]
